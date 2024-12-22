@@ -19,7 +19,8 @@ _obj
 _test
 _testmain.go
 
-/go.sum
+go.sum
+.env
 
 /VERSION.cache
 /bin/
